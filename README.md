@@ -5,5 +5,6 @@ You should go through this [tutorial](https://code.visualstudio.com/docs/introvi
 ## Configuration
 Since we will be using Docker as a web server, add the Docker extension to vscode.
 1. Select Extensions on the left sidebar  
-![extensions](images/extensions.png)
-2. 
+![](images/extensions.png)
+2. Search for Docker and select the extension
+![](images/extensions2.png) 
