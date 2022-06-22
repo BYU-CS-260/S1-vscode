@@ -1,4 +1,4 @@
-# S1-vscode
+# VScode Setup
 This tutorial will introduce you to vscode.
 ## Installation
 You should go through this [page](https://code.visualstudio.com/docs/setup/setup-overview) to install vscode on your laptop or desktop.
